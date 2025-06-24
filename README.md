@@ -1,1 +1,1 @@
-# pico v1
+# pico v1.0
